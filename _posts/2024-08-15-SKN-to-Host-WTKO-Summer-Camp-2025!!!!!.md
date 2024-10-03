@@ -13,4 +13,4 @@ Here’s to 2025.
 Full information will be released over the upcoming weeks so please like and follow.
 
 
-![Summer camp 2025](/assets/images/summercamp.jpg)
+![Summer camp 2025](../assets/images/summercamp.jpg)
